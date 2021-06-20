@@ -1,5 +1,5 @@
 - 👋 Hey , I’m @AKHIL-S-BABU
-- 👀 I’m interested in :<br />Python  ,<br />C <br / >Machine Learning <br />Open CV
+- 👀 I’m interested in :<br />Python  <br />C <br / >Machine Learning <br />Open CV
 - 🌱 I’m currently learning Open CV
 - 💞️ I’m looking to collaborate on a project with open cv
 - 📫 How to reach me ...<br />
