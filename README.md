@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Open CV
 - 💞️ I’m looking to collaborate on a project with open cv
 - 📫 How to reach me ...
-    email: akhilsbabu15@gmail.com
+    email: akhilsbabu15@gmail.com <br />
 Instagram: https://www.instagram.com/akhil_babu_s_/
 
 <!---
