@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , C ,Machine Learning ,Open CV
 - 🌱 I’m currently learning Open CV
 - 💞️ I’m looking to collaborate on a project with open cv
-- 📫 How to reach me ...
+- 📫 How to reach me ...<br />
     email: akhilsbabu15@gmail.com <br />
 Instagram: https://www.instagram.com/akhil_babu_s_/
 
